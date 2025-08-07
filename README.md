@@ -16,6 +16,7 @@
 | 5️⃣ | [05_push_pull.md](./05_push_pull.md) | Отправка (`push`) и получение (`pull`) изменений |
 | 6️⃣ | [06_gui.md](./06_gui.md)             | Визуальные инструменты: `git gui`, `gitk`       |
 | 7️⃣ | [07_misc.md](./07_misc.md)           | Дополнительные команды: `log`, `init` и другие |
+| 8️⃣ | [08_objects.md](./08_objects.md)     | Git объекты: commit, tree, blob и как они связаны |
 
 ---
 
