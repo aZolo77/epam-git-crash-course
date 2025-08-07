@@ -17,6 +17,7 @@
 | 6️⃣ | [06_gui.md](./06_gui.md)             | Визуальные инструменты: `git gui`, `gitk`       |
 | 7️⃣ | [07_misc.md](./07_misc.md)           | Дополнительные команды: `log`, `init` и другие |
 | 8️⃣ | [08_objects.md](./08_objects.md)     | Git объекты: commit, tree, blob и как они связаны |
+| 8️⃣ | [08_objects.md](./09_reset.md)       | Команда `git reset` и её режимы: soft, mixed, hard |
 
 ---
 
